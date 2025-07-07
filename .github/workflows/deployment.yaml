@@ -36,3 +36,25 @@ jobs:
 
       # erase everything below this comment if you do not wish to generate a pdf for the OER
       # If you want to generate a pdf, alter lines 55 and 58.
+
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      - name: Install Prince
+        run: |
+          curl -L -o prince.tar.gz https://www.princexml.com/download/prince-15.2-linux-generic-x86_64.tar.gz
+          tar -xzf prince.tar.gz
+          sudo ./prince-*/install.sh
+
+      - name: Build PDF
+        run: npx docusaurus-prince-pdf -u https://patrick-crawford.github.io/WebProgrammingPrinciples/ -o ./pdf/WebProgrammingPrinciples.pdf
+
+      - name: Push PDF to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.GH_PAGES_DEPLOY }}
+          publish_dir: ./pdf
+          publish_branch: gh-pages
+          destination_dir: pdf
+          commit_message: 'Add generated PDF'
