@@ -26,7 +26,7 @@ description: Practice Exercises
 
 ## A Larger Problem Combining Everything:
 
-You are [asked to write JavaScript code](exercise.js) to process a `String` which is in the form of a [Comma-Separated Values (CSV)](https://en.wikipedia.org/wiki/Comma-separated_values) formatted data dump of user information. The data might look something like this:
+You are [asked to write JavaScript code](TODO) to process a `String` which is in the form of a [Comma-Separated Values (CSV)](https://en.wikipedia.org/wiki/Comma-separated_values) formatted data dump of user information. The data might look something like this:
 
 ```csv
 0134134,John Smith,555-567-2341,62 inches
@@ -34,7 +34,7 @@ You are [asked to write JavaScript code](exercise.js) to process a `String` whic
 0134136,       Kim Thomas       , 5324126347, 138cm`
 ```
 
-Write a series of functions to accomplish the following, building a larger program as you go. You can begin with [exercise.js](exercise.js):
+Write a series of functions to accomplish the following, building a larger program as you go. You can begin with [exercise.js](TODO):
 
 1. Split the string into an `Array` of separate rows (i.e., an `Array` with rows separated by `\n`). Bonus: how could we deal with data that includes both Unix (`\n`) and Windows (`\r\n`) line endings?
 

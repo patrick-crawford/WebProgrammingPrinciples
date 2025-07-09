@@ -43,11 +43,15 @@ description: Contents ofWeb Programming Principles
 
 ## Elements & Media
 
-- [TODO](Elements-Media/TODO)
+- [HTML Elements](Elements-Media/HTML-Elements)
+- [Multimedia](Elements-Media/Multimedia)
+- [Practical Examples](Elements-Media/Practical-Examples)
 
 ## DOM & Events
 
-- [TODO](DOM-Events/TODO)
+- [DOM Introduction](DOM-Events/DOM-Introduction)
+- [Events & Timers](DOM-Events/Events-Timers)
+- [Practice Exercise](DOM-Events/Practice-Exercise)
 
 ## CSS & Styling
 
