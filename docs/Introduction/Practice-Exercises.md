@@ -39,4 +39,4 @@ use `console.log()`, which will print the argument(s) you give it.
 1. Write a function `getCircleArea(radius)` which takes a number `radius` and returns the area of a circle with that radius.
 1. Write a function `getHypotenuse(a, b)` which takes two numbers `a` and `b` (the lengths of the two sides of a right triangle) and returns the length of the hypotenuse. HINT: use the Pythagorean theorem and `Math.sqrt()` to calculate the square root.
 
-After you try writing these yourself, take a look at a [possible solution](TODO).
+After you try writing these yourself, take a look at a [possible solution](files/practice-exercises-solution.js).

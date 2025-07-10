@@ -7,7 +7,7 @@ description: Practical Examples
 
 # Practical Examples
 
-- [Lists: ordered and unordered](TODO)
-- [Anchors: creating hyperlinks](TODO)
-- [Images: using img](TODO)
-- [Text: text sections](TODO)
+- [Lists: ordered and unordered](files/list-example.html.txt)
+- [Anchors: creating hyperlinks](files/anchor-example.html.txt)
+- [Images: using img](files/img-example.html.txt)
+- [Text: text sections](files/text-example.html.txt)

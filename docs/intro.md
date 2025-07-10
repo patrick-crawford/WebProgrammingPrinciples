@@ -55,7 +55,8 @@ description: Contents ofWeb Programming Principles
 
 ## CSS & Styling
 
-- [TODO](CSS-Styling/TODO)
+- [Introduction to CSS & Syntax](CSS-Styling/Introduction-CSS-Syntax)
+- [Applied CSS](CSS-Styling/Applied-CSS)
 
 ## Box Model & Layout
 

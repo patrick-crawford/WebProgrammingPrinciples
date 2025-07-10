@@ -134,7 +134,7 @@ different parts of our code don't have to be combined into a single function. In
 we can keep things separate (saving logic vs. analytics logic).
 
 A complete example of a page that listens for changes to the network online/offline status,
-and updates the page accordingly, is available at [online.html](TODO).
+and updates the page accordingly, is available at [online.html](files/online.html.txt).
 
 ## Common Events
 

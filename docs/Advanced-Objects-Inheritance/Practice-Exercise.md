@@ -102,4 +102,4 @@ console.log(msg2.toMorse());
 console.log(msg2.toAlpha());
 ```
 
-You can download the [code above](TODO) as well as a [possible solution](TODO).
+You can download the [code above](files/example.js) as well as a [possible solution](files/solution.js).
