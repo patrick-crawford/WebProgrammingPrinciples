@@ -7,33 +7,6 @@ description: Applied CSS
 
 # Applied CSS
 
-As our CSS grows, it's common that we'll notice that we're repeating the same things
-multiple times. Instead of doing this, we can group a number of selectors together into
-a comma-separated list:
-
-```css
-html,
-body {
-  height: 100%;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: Serif;
-  color: blue;
-}
-```
-
-Here we've used grouping twice to cut-down on the number of times we have to repeat things.
-In the first case, we defined a height of `100%` (full height of the window) for the `<html>`
-and `<body>` elements (they don't have a height by default, and will only be as tall as
-the content within them). We've also declared some font and color information for all the
-headings we want to use.
-
 ## Containers for Styling
 
 We've discussed `<div>` and `<span>` in the past, but their purpose may not have been clear.
