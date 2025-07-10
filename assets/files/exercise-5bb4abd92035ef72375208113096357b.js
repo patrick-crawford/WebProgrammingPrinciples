@@ -1,0 +1,1 @@
+let csvData="0134134,John Smith,555-567-2341,62 inches\n0134135   ,    June    Lee    ,  5554126347 ,        149 cm\n0134136,       Kim Thomas       , 5324126347, 138cm";function processCSV(e){return e}let processed=processCSV(csvData);console.log(processed);

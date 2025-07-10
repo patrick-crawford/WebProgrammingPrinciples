@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Image Example</title>
+    </head>
+
+    <body>
+        <img src="https://images.unsplash.com/photo-1502720433255-614171a1835e" width="1024">
+    </body>
+</html>
