@@ -60,7 +60,8 @@ description: Contents ofWeb Programming Principles
 
 ## Box Model & Layout
 
-- [TODO](Box-Model-Layout/TODO)
+- [Box Model](Box-Model-Layout/Box-Model)
+- [Practice Exercise](Box-Model-Layout/Practice-Exercise)
 
 ## Forms & Inputs
 
