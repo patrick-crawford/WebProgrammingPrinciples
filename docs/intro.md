@@ -65,7 +65,9 @@ description: Contents ofWeb Programming Principles
 
 ## Forms & Inputs
 
-- [TODO](Forms-Inputs/TODO)
+- [HTML Forms Introduction](Forms-Inputs/HTML-Forms-Introduction)
+- [Forms & CSS](Forms-Inputs/Forms-CSS)
+- [Practice Exercise](Forms-Inputs/Practice-Exercise)
 
 ## Client-side Validation
 
