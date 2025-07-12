@@ -77,6 +77,10 @@ description: Contents ofWeb Programming Principles
 
 - [TODO](JSON-Dynamic-Data/TODO)
 
+## Case Study
+
+- [TODO](Case-Study/TODO)
+
 ## Resources
 
 - [Learning Resources](Resources/learning-resources)
