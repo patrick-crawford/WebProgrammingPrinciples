@@ -76,7 +76,9 @@ description: Contents ofWeb Programming Principles
 
 ## JSON & Dynamic Data
 
-- [TODO](JSON-Dynamic-Data/TODO)
+- [AJAX Fundamentals](JSON-Dynamic-Data/AJAX-Fundamentals)
+- [Data Formats](JSON-Dynamic-Data/Data-Formats)
+- [Advanced Techniques](JSON-Dynamic-Data/Advanced-Techniques)
 
 ## Case Study
 
