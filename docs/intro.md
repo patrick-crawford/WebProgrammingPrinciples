@@ -71,7 +71,8 @@ description: Contents ofWeb Programming Principles
 
 ## Client-side Validation
 
-- [TODO](Client-side-Validation/TODO)
+- [HTML5 Form Validation](Client-side-Validation/HTML5-Form-Validation)
+- [Using JavaScript](Client-side-Validation/Using-JavaScript)
 
 ## JSON & Dynamic Data
 
