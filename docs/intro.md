@@ -82,7 +82,7 @@ description: Contents ofWeb Programming Principles
 
 ## Case Study
 
-- [TODO](Case-Study/TODO)
+- [Using REST APIs to Integrate Data in Web Apps](Case-Study/Using-REST-APIs-Integrate-Data-Web-Apps)
 
 ## Resources
 
