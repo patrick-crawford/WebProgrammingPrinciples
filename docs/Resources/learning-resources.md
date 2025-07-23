@@ -43,7 +43,6 @@ Below, you will find links to learning resources that you will use in this cours
 
 ## Online Web Code Tools
 
-- [Static Site Hosting](static-site-hosting.md)
 - [JSFiddle](https://jsfiddle.net/)
 - [CodePen](https://codepen.io/)
 - [JS Bin](http://jsbin.com/?html,js,output)

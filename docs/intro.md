@@ -87,3 +87,4 @@ description: Contents ofWeb Programming Principles
 ## Resources
 
 - [Learning Resources](Resources/learning-resources)
+- [Static Web Site Hosting](Resources/Static-Web-Site-Hosting)
