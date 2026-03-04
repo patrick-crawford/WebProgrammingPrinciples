@@ -32,11 +32,9 @@ The web runs on-top of TCP/IP networks using a number of communication protocols
 There are many more as well (SMTP, FTP, POP, IMAP, SSH, etc).
 
 We often use the terms "Web" and "Internet" interchangeably, however, they aren't
-the same. Pictured below, [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) (left), who invented the _World Wide Web_, and [Vint Cert](https://en.wikipedia.org/wiki/Vint_Cerf) (right), who was one of the main inventors of the _Internet_:
+the same.
 
-![Tim Berners-Lee (left) invented the web, and Vint Cert (right) invented the internet](https://pbs.twimg.com/media/Dl8QP8WU4AIk6ap.jpg)
-
-The _World Wide Web_ (WWW) runs on top of the Internet using HTTP, and
+The _World Wide Web_ (WWW - invented by [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)) runs on top of the Internet (invented by [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf) and others) using HTTP, and
 allows us to access web services, request resources (i.e., pages, images), and
 transmit data between clients and servers. The web is a subset of the Internet.
 
